@@ -37,5 +37,5 @@ Here a forecasting system is created with the help of time series models ARIMA, 
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
 #### **Link to code:** 
-https://drive.google.com/file/d/1V5czGqmmbTNAujEt0o5bpzEKbXrF1W-S/view?usp=sharing
+https://colab.research.google.com/drive/1rxsnyroQ886k1flj0-TscSjn5pnvUqPI#scrollTo=23d8d615
 
